@@ -8,4 +8,7 @@ Related to this Alhambra (https://alhambrabits.com/alhambra/), Icestudio (https:
 
 # Maths
 I want to start with a simple depiction:
-$A = A_0 e^{i(kx - \omega t + \theta)}$
+
+\[A = A_0 e^{i(kx - \omega t + \theta)}$\]
+
+Where the wavevector is expressed as $k=\frac{2 \pi}{\lambda}$, $\lambda$ being the wavelength and $\omega=\frac{2 \pi}{T}$ is its angular frequency. $\theta$ is the phase offset.
