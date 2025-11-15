@@ -8,4 +8,4 @@ Related to this Alhambra (https://alhambrabits.com/alhambra/), Icestudio (https:
 
 # Maths
 I want to start with a simple depiction:
-$A = A_0 \exp{i(kx - \omega t + \theta)}$
+$A = A_0 e^{i(kx - \omega t + \theta)}$
