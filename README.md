@@ -7,4 +7,5 @@ FPGA –Field-Programmable Gate Arrays. This is to get the loudspeakers to work 
 Related to this Alhambra (https://alhambrabits.com/alhambra/), Icestudio (https://icestudio.io)
 
 # Maths
-I want to start with the simplest possible depiction. Sine and cosine waves: $\sin{\omega t + n\pyi}$
+I want to start with a simple depiction:
+$A = A_0 \exp{i(kx - \omega t + \theta)}$
